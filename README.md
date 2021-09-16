@@ -1,4 +1,8 @@
-# P5.js "Doodles"
+# random p5js doodles
 
-- [mouseTrail](mouseTrail/index.html)
 - [rainbowLines](rainbowLines/)
+- [mouseTrail](mouseTrail/)
+
+# Resources
+- https://processing.org/
+- https://p5js.org/
