@@ -3,6 +3,9 @@
 - [rainbowLines](rainbowLines/)
 - [mouseTrail](mouseTrail/)
 
-# Resources
+# notes
+copy p5.js template dir: `cp -r template NEW_PROJECT`
+
+# resources
 - https://processing.org/
 - https://p5js.org/
